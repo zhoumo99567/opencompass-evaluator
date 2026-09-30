@@ -1,0 +1,10 @@
+.env
+.venv/
+outputs/
+reports/
+.viewer_settings.json
+.dataset_collections.json
+.cache/
+tmp/
+icl_inference_output/
+__pycache__/
