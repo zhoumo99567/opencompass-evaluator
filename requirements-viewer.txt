@@ -1,0 +1,11 @@
+tinycss2>=1.4,<2
+langdetect>=1.0.9,<2
+nltk>=3.9,<4
+# Installed OpenCompass LongBench loaders require dataset script support.
+datasets>=3.6,<4
+# Lightweight scorers for MATH-500 / AIME 2024 (no local model weights).
+math-verify>=0.9,<1
+latex2sympy2-extended>=1.11,<2
+# IFBench rule checks; NLTK data resource readiness is checked separately.
+emoji>=2.14,<3
+syllapy>=0.8,<1

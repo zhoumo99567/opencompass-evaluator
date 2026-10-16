@@ -8,3 +8,5 @@ reports/
 tmp/
 icl_inference_output/
 __pycache__/
+data/
+.playwright-cli/
